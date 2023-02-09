@@ -22,3 +22,8 @@ DATABASES = {
            'NAME': 'your-db-name',
        }
    }
+- python manage.py migrate
+# create models and makemigrations
+- python manage.py makemigrations
+- python manage.py migrate
+# Create views and serializer
