@@ -14,3 +14,11 @@ Create requirements.txt
 Create the project
 - django-admin start project [project_name]
 
+Change the settings to mongodb settings
+
+DATABASES = {
+       'default': {
+           'ENGINE': 'djongo',
+           'NAME': 'your-db-name',
+       }
+   }
