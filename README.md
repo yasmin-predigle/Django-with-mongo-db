@@ -6,5 +6,5 @@ Creating a sample project with djongo
 Create virtual environment
 
 activate: 
-### source venv/scripts/activate
+  - source venv/scripts/activate
 
