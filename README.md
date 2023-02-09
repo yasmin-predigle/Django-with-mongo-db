@@ -11,3 +11,6 @@ activate:
 Create requirements.txt
 - pip install -r requirements.txt
 
+Create the project
+- django-admin start project [project_name]
+
